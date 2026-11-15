@@ -12,7 +12,7 @@ id: 128
 
 책 위쪽의 **원고 불러오기** 탭을 누르면 형식별 카드가 나옵니다.
 
-![원고 불러오기 탭: Word, HWPX 카드의 내보내기·불러오기 버튼](/u/manual/ko/19-import-export-1.jpg "float:7,size:6x4")
+![원고 불러오기 탭: Word, HWPX 카드의 내보내기·불러오기 버튼](images/19-import-export-1.jpg "float:7,size:6x4")
 
 | 카드 | 파일 |
 | --- | --- |
@@ -38,7 +38,7 @@ id: 128
 
 불러오기가 끝나면 책 개요로 돌아가 "3개 챕터가 업데이트되었습니다."처럼 바뀐 문서 수를 알려 줍니다.
 
-![업로드 안내 창: 고른 .hwpx 파일의 이름과 크기, 불러오기 버튼](/u/manual/ko/19-import-export-2.jpg "float:7,size:6x4")
+![업로드 안내 창: 고른 .hwpx 파일의 이름과 크기, 불러오기 버튼](images/19-import-export-2.jpg "float:7,size:6x4")
 
 ## 제목으로 맞춰 넣습니다
 
